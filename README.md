@@ -1,2 +1,2 @@
-# Gender-recognition-using-names-
+# Gender-recognition-from-names-
 This project is basically used to identify gender on the basis of names with an accuracy of 92 percent. LSTM model has been used here.
